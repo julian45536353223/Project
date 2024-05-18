@@ -1,0 +1,49 @@
+h1{
+    text-align: center;border: solid 2px;width: 300px;margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;font-style: italic;
+}
+
+#img1{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 500px;border: solid 3px;box-shadow: 5px 5px gray;
+}
+
+body{
+    background-image: url(sean-oulashin-KMn4VEeEPR8-unsplash.jpg);font-family: Arial, Helvetica, sans-serif;
+}
+
+#etiqueta{
+    width: 500px;margin: auto;
+}
+
+h3{
+    text-align: center;
+}
+
+#link{
+    width: 300px;margin-left: auto;
+}
+
+#img2{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
